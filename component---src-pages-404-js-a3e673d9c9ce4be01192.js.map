@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["props"],"mappings":"2FAAA,iCAIA,UAFmB,SAACA,GAAD,OAAW,sBAAX","file":"component---src-pages-404-js-a3e673d9c9ce4be01192.js","sourcesContent":["import React from \"react\";\n\nconst FourOhFour = (props) => <h1>Page Not found</h1>;\n\nexport default FourOhFour;\n"],"sourceRoot":""}
