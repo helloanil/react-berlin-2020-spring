@@ -1,0 +1,38 @@
+[
+  {
+    "name": "JS Catch-up",
+    "handle": "js-catch-up",
+    "exercises": [
+      { "name": "Exercise 1", "url": "some-url" },
+      { "name": "Exercise 2", "url": "some-url" },
+      { "name": "Exercise 3", "url": "some-url" }
+    ]
+  },
+  {
+    "name": "React Base features & Syntax",
+    "handle": "react-base-features-and-syntax"
+  },
+  { "name": "Component Lifecycle", "handle": "component-lifecycle" },
+  {
+    "name": "Lists & Conditionals",
+    "handle": "lists-and-conditionals"
+  },
+  {
+    "name": "Styling React Components",
+    "handle": "styling-react-components"
+  },
+  {
+    "name": "Debugging React Applcations",
+    "handle": "debugging-react-applications"
+  },
+  {
+    "name": "Diving Deeper into Components",
+    "handle": "diving-deeper-into-components"
+  },
+  { "name": "Routing", "handle": "routing" },
+  { "name": "Forms & Validation", "handle": "forms-and-validations" },
+  {
+    "name": "Global State Management (Redux)",
+    "handle": "global-state-management"
+  }
+]

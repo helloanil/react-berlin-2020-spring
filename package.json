@@ -1,0 +1,23 @@
+{
+  "name": "react-berlin-2020-spring",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://helloanil.github.io/react-berlin-2020-spring",
+  "scripts": {
+    "predeploy": "gatsby build",
+    "deploy": "gh-pages -d public/"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.11",
+    "@material-ui/icons": "^4.9.1",
+    "gatsby": "^2.20.25",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-material-ui": "^2.1.6",
+    "gatsby-theme-mdx-deck": "^4.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
